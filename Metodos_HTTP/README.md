@@ -1,5 +1,5 @@
 
-# Metodos HTTP
+# Métodos HTTP
 <p align="center">
     <img src="https://miro.medium.com/max/1018/0*XB5zwH2FMnsOh7tc.png" width="420" height="300"/>
     <img src="https://blog.makeitreal.camp/assets/images/http-messages.jpg" width="420" height="300"/>
@@ -880,7 +880,7 @@ El código de estado 511 indica que el cliente necesita autenticar para ganar ac
 
 ## Conclusión
 
-Los metodos HTTP son aquellos con los que el cliente hace  las peticiones sobre el servidor HTTP, es decir, que nos ayudan a especificar la acción que se requiere realizar en un elemento determinado y aunque estas peticiones tienen distintas semánticas, también tienen muchas similitudes en las mismas que evitan que este grupo se extienda demasiado.
+Los métodos HTTP son aquellos con los que el cliente hace  las peticiones sobre el servidor HTTP, es decir, que nos ayudan a especificar la acción que se requiere realizar en un elemento determinado y aunque estas peticiones tienen distintas semánticas, también tienen muchas similitudes en las mismas que evitan que este grupo se extienda demasiado.
 
 Los códigos de estado HTTP transmiten el estado de nuestra página web a Google, evitando problemas derivados con posicionamiento web. 
 
